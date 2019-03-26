@@ -459,7 +459,7 @@ public class Camera2BasicFragment extends Fragment
 
     np = (NumberPicker) view.findViewById(R.id.np);
     np.setMinValue(1);
-    np.setMaxValue(10);
+    np.setMaxValue(4);
     np.setWrapSelectorWheel(true);
     np.setOnValueChangedListener(
         new NumberPicker.OnValueChangeListener() {

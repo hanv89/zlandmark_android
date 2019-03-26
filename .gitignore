@@ -23,7 +23,6 @@ local.properties
 .DS_Store
 build/
 gradleBuild/
-*.apk
 *.ap_
 *.dex
 *.class
@@ -37,3 +36,4 @@ out/
 
 key/
 release/
+debug/
