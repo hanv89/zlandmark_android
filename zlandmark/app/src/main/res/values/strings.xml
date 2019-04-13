@@ -34,6 +34,7 @@
     <string name="xceptionFloat">xception</string>
     <string name="mobilenetV2Float">mobilenet</string>
     <string name="nasnetFloat">nasnet</string>
+    <string name="nasnetExtFloat">nasnet(ext)</string>
     <string name="inceptionFloat">inception</string>
     <string name="resnetFloat">resnet</string>
 

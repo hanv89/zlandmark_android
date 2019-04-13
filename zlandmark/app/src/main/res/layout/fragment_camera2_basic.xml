@@ -58,7 +58,7 @@
         android:theme="@style/AppTheme.Picker"
         android:layout_alignParentBottom="true"
         android:layout_toLeftOf="@id/model"
-        android:visibility="visible"/>
+        android:visibility="gone"/>
     <ListView
         android:id="@+id/model"
         android:layout_width="120dp"
